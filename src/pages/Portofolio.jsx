@@ -65,6 +65,14 @@ export default function Portfolio() {
       type: "Public",
       link: "https://github.com/sadushan3/bus-ticket",
     },
+
+    {
+  title: "Coding_Hours_Regression_Model",
+  desc: "Built a linear regression model in R to predict coding hours using behavioral and productivity metrics.",
+  tech: ["R", "Statistics"],
+  type: "Public",
+  link: "https://github.com/sadushan3/Linear_model_evaluation_using_statistics.git",
+},
   ];
 
   return (
@@ -112,7 +120,7 @@ export default function Portfolio() {
           </p>
           <div className="flex gap-4 items-center">
             <a
-              href="/SELVAKUMAR Sadurshan.pdf"
+              href="/Selvakumarr Sadurshan CV.pdf"
               download
               className="bg-pink-600 hover:bg-pink-500 px-5 py-2 rounded-full font-medium text-white transition"
             >
