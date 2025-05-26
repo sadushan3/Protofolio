@@ -73,6 +73,13 @@ export default function Portfolio() {
   type: "Public",
   link: "https://github.com/sadushan3/Linear_model_evaluation_using_statistics.git",
 },
+{
+title: "Cleaning_and_Visualization using Python",
+  desc: "Conducted exploratory data analysis (EDA) on Netflix’s dataset using Python to identify trends in content release, genre distribution, and ratings.",
+  tech: ["Python", "Pandas","Matplotlib"],
+  type: "Public",
+  link: "https://github.com/sadushan3/Data_Cleaning_visulazation_python.git",
+},
   ];
 
   return (
@@ -120,7 +127,7 @@ export default function Portfolio() {
           </p>
           <div className="flex gap-4 items-center">
             <a
-              href="/Selvakumarr Sadurshan CV.pdf"
+              href="/selvakumar_sadurshan.pdf"
               download
               className="bg-pink-600 hover:bg-pink-500 px-5 py-2 rounded-full font-medium text-white transition"
             >
